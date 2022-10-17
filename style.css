@@ -1,0 +1,38 @@
+.navbar-inverse .navbar-brand {
+    color: rgb(210, 154, 98);
+ }
+ .navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+    color: rgb(102, 82, 82);
+    background-color:#edd9e2;
+}
+.foot{
+        padding: 10px;
+
+    }
+    .img{
+        width: 20px;
+        height: 20px;
+    }
+    .navbar-inverse .navbar-nav>li>a {
+        color: rgb(210, 154, 98);
+    }
+    
+.dropdown-menu>.active>a, .dropdown-menu>.active>a:focus, .dropdown-menu>.active>a:hover {
+    color: rgb(243, 246, 245);
+    text-decoration:none;
+    background-color: #cf71cb;
+    outline: 0;
+}
+.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:focus, .navbar-inverse .navbar-nav>.open>a:hover {
+    color: rgb(185, 78, 78);
+    background-color: rgb(216, 195, 195);
+}
+.dropdown-menu>li>a {
+    display: block;
+    padding: 3px 20px;
+    clear: both;
+    font-weight: 400;
+    line-height: 1.42857143;
+    color: rgb(235, 225, 225);
+    white-space: nowrap;
+}
